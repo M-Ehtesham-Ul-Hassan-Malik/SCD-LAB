@@ -1,3 +1,29 @@
+//Create a class Teacher with the following private attributes:
+// Name
+// Age
+// Institute
+//Derive three classes from it that has Create a class Teacher with the following private attributes:
+// Employee ID
+// Email
+// Phone Number
+//Derive three classes from it with the following names: HumanitiesTeacher, ScienceTeacher, and
+//MathsTeacher. Each of these derived classes should have the following members:
+// Specialization (e.g., &quot;Literature&quot;, &quot;Physics&quot;, &quot;Algebra&quot;)
+// Years of Experience
+// Research Interests (e.g., &quot;Ancient History&quot;, &quot;Quantum Mechanics&quot;, &quot;Calculus Applications&quot;)
+//Each class should include:
+// Proper accessors (getters) and mutators (setters) for all attributes.
+// A method to display all relevant information about the teacher.
+//Requirements:
+//1. Define the Teacher class with private attributes and appropriate setters and getters.
+//2. Define each of the derived classes (HumanitiesTeacher, ScienceTeacher, MathsTeacher)
+//with additional attributes, including setters and getters.
+//3. Implement a method in each class to display the values of all attributes.
+//4. Create objects for each of the derived classes.
+//5. Prompt the user to input the values for each teacher&#39;s attributes.
+//6. Display the values using the method implemented in each class.
+
+
 import java.util.Scanner;
 
 class teacher{

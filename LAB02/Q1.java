@@ -4,6 +4,7 @@ import java.util.Scanner;
 public class Q1 {
     public static void main(String[] args) {
 
+        System.out.println("22K-4824");
 
         Scanner scanner = new Scanner(System.in);
 

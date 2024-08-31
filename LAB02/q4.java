@@ -1,3 +1,19 @@
+//Lab Task 4: Custom Exception
+//Objective: Create and use a custom exception class to handle
+//insufficient balance in a bank account.
+//Steps:
+//Define a custom exception class: Create a class called
+//InsufficientBalanceException that extends Exception.
+//Write a method to check balance: Write a method that checks if a bank
+//account balance is sufficient to make a withdrawal. Let&#39;s say the balance
+//should not go below $100 after a withdrawal.
+//Throw InsufficientBalanceException: If the withdrawal would cause the
+//balance to drop below $100, throw InsufficientBalanceException.
+//Use try-catch block: In the main program, call the withdrawal method
+//inside a try-catch block. Handle the InsufficientBalanceException and
+//print an appropriate message to the user.
+
+
 import java.util.Scanner;
 
 class customException extends Exception{

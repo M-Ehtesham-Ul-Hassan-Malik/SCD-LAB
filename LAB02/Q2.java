@@ -1,3 +1,15 @@
+//Lab Task 2: ArithmeticException
+//Objective: Implement nested try-catch blocks to handle exceptions
+//occurring at different levels.
+//Steps:
+//Write a program that has a try-catch block inside another try-catch block.
+//In the inner try block, handle xxxException by converting a string to a
+//number.
+//In the outer try block, handle xxxException by performing a division
+//operation.
+//Print different messages depending on which exception occurs.
+
+
 import java.util.Scanner;
 
 public class Q2 {

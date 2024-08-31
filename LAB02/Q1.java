@@ -1,3 +1,10 @@
+//Lab Task 1: Basic Exception Handling
+//Objective: Create a Java program that reads an integer from the user
+//and handles the xxxxException if the user enters a non-integer value.
+//Instructions: Write a program that prompts the user to enter an integer.
+//Use a try-catch block to catch an xxxxException and display a message
+//indicating that the input is invalid.
+
 import java.util.InputMismatchException;
 import java.util.Scanner;
 

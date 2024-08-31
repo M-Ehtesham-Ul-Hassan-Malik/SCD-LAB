@@ -18,7 +18,7 @@ public class q4 {
     }
     public static void main(String[] args) {
             try {
-
+                System.out.println("22K-4824");
                 q4 obj = new q4();
                 obj.checkBalance(300,250);
 
